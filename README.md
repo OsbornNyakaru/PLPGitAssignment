@@ -37,7 +37,7 @@ Committing Changes:
    git commit -m "Add hello.txt with a greeting"
 
    ```
-Pushing to GitHub:
+Pushing to GitHub
 
   - Push the committed changes to your GitHub repository.
 
